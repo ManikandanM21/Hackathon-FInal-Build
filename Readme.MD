@@ -108,7 +108,7 @@ Screenshots are captured at relevant steps for documentation and analysis.
   - Description: Currently we are having less than 50 test cases,in future we will increase more number of test cases .
   - Timeline: Considered for the upcoming sprint.
 
-- **Enhancement 2: Cross browser testing **
+- **Enhancement 2: Cross browser testing**
   - Description: Currently we had not implemented cross browser testing.
   - Timeline: Long-term goal for improved data-driven testing.
 
