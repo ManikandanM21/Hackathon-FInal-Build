@@ -20,7 +20,7 @@ public class Homepage extends BasePage{
 	WebElement switch_frame;
 
 	// clicking cab
-	@FindBy(xpath="//span[text()='Cabs'][1]")
+	@FindBy(xpath="(//span[text()='Cabs'])[1]")
 	WebElement cab_button;
 	
 	//Clicking one Way
